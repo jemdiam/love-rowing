@@ -1,3 +1,6 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200..700&display=swap');
+
 body * {
     border: 1px solid red;
 }
@@ -13,6 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
+    color: #3a3a3a;
 }
 
 main {
