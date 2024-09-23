@@ -17,6 +17,7 @@ body {
     flex-direction: column;
     height: 100vh;
     color: #3a3a3a;
+    font-family: 'Lato', sans-serif;
 }
 
 main {
