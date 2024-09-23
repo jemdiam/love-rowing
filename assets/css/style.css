@@ -20,12 +20,22 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+/* Header */
+header {
+    background-color: lightcoral;
+}
+
+h1 {
+    font-family: 'Loto', sans-serif;
+}
+
+/* Main Content */
 main {
+    background-color: lightblue;
     flex: 1 0 auto;
 }
 
-/* Header */
-
-/* Main Content */
-
 /* Footer */
+footer {
+    background-color: orange;
+}
