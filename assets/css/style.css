@@ -9,9 +9,9 @@
 }
 
 body {
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
-    height: 100vh;
     /* generic prject styles */
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
@@ -33,6 +33,10 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
+}
+
+header i {
+    font-size: 220%;
 }
 
 h1 {
@@ -127,7 +131,7 @@ main {
     }
 
     #logo {
-        font-size: 200%;
+        font-size: 280%;
         line-height: 75px;
         margin: 0 0 .5rem;
     }
