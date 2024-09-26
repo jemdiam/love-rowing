@@ -106,7 +106,7 @@ main {
 
 #cover-text {
     background-color: rgba(241, 109, 107, .7 );
-    font-size: 1 30%;
+    font-size: 130%;
     position: absolute;
     bottom: 30px;
     width: 80%;
@@ -181,7 +181,7 @@ hr {
 
 #times h3 {
     /* override general rule for h3 */
-    color: fafafa; 
+    color: #fafafa; 
 }
 
 /* gallery page */
