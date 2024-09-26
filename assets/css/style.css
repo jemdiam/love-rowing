@@ -25,7 +25,11 @@ h1, h2, h3  {
     color: #252525;
 }
 
-/* header */
+.hidden-heading {
+    display: none;
+}
+
+/* header */ 
 header {
     background-color: #ffffff;
     padding: 0 1rem;
